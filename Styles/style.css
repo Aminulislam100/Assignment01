@@ -1,0 +1,504 @@
+.navbar .hero-btn button:hover{
+    background-color: grey;
+    color: white;
+}
+.banner-dad .banner .banner-btn button:hover{
+    background-color: grey;
+    color: white;
+}
+.vision .vision-dad .vision2 .vision2-1 .vision2-1-btn button:hover{
+    background-color: grey;
+    color: white;
+}
+.vision .vision-dad .vision3 .vision2-1-btn2 button:hover{
+    background-color: grey;
+    color: white;
+}
+.vision .vision-dad .vision4 .vision2-1-btn3 button:hover{
+    background-color: grey;
+    color: white;
+}
+.satelite-btn button:hover{
+    background-color: grey;
+    color: white;
+}
+.donate-btn button:hover{
+    background-color: grey;
+    color: white;
+}
+.email2 button:hover{
+    background-color: red;
+    color: white;
+}
+/* navbar */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 27px;
+    margin-bottom: 44px;
+}
+.navbar .hero-btn button{
+    margin-top: 8px;
+    background-color: azure;
+    border: 1px solid rgb(0, 106, 80);
+    color: rgb(0, 106, 80);
+    width: 106px;
+height: 42px;
+border-radius: 8px;
+}
+.navbar .hero{
+    font-size: 25px;
+font-weight: 700;
+}
+/* banner */
+.banner-dad{
+    margin: 0 160px 80px 160px;
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+display: flex;
+padding: 80px 20px 40px 80px;
+}
+.banner-dad .banner .banner1{
+    color: rgba(14, 14, 14, 0.5);
+}
+.banner-dad .banner .banner2{
+    font-size: 30px;
+font-weight: 700;
+height: 150px;
+margin-bottom: 24px;
+
+}
+.banner-dad .banner20 .banner-img img{
+    max-width: 400.03px;
+height: 300.21px;
+margin-left: 70px;
+}
+.banner-dad .banner .banner1{
+    height: 0px;
+}
+.banner-dad .banner .banner-btn button{
+    width: 209px;
+    height: 45px;
+    border-radius: 8px;
+background: rgb(0, 106, 80);
+border: none;
+color: white;
+}
+/* vision */
+.vision .vision-dad .vision2{
+    width: 350.67px;
+height: 325px;
+box-sizing: border-box;
+border-radius: 16px;
+padding: 33px 32px 32px 32px;
+
+background: rgba(84, 144, 245, 0.2);
+}
+.vision .vision-dad .vision1 .vision1-1 h1{
+    font-size: 35px;
+font-weight: 700;
+height: 6px;
+}
+.vision .vision-dad .vision1 .vision1-2 p{
+    font-size: 12px;
+font-weight: 400;
+margin-top: 50px;
+margin-bottom: 32px;
+color: rgba(14, 14, 14, 0.7);
+}
+.vision{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.vision .vision-dad .vision2 .vision2-1 .vision2-1-btn button{
+    width: 110px;
+height: 41px;
+border-radius: 8px;
+background: rgb(84, 144, 245);
+border: none;
+color: white;
+}
+.vision .vision-dad .vision2-dad .vision2 .vision2-1-content p{
+    font-family: Fira Sans;
+    font-size: 13px;
+font-weight: 400;
+margin-bottom: 32px;
+color: rgba(14, 14, 14, 0.7);
+}
+.vision .vision-dad .vision2-dad .vision3 .vision2-1-content p{
+    font-size: 13px;
+font-weight: 400;
+margin-bottom: 45px;
+color: rgba(14, 14, 14, 0.7);
+}
+.vision .vision-dad .vision2-dad .vision4 .vision2-1-content p{
+    font-size: 12px;
+font-weight: 400;
+margin-bottom: 45px;
+color: rgba(14, 14, 14, 0.7);
+}
+.vision .vision-dad .vision3 .vision2-1-btn2 button{
+    width: 110px;
+height: 41px;
+border-radius: 8px;
+background: rgb(9, 161, 92);
+border: none;
+color: white;
+}
+.vision .vision-dad .vision4 .vision2-1-btn3 button{
+    width: 110px;
+height: 41px;
+border-radius: 8px;
+background: rgb(255, 194, 57);
+border: none;
+color: white;
+}
+.vision .vision-dad .vision3{
+    width: 350.67px;
+height: 325px;
+box-sizing: border-box;
+border-radius: 16px;
+padding: 33px 32px 32px 32px;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.vision .vision-dad .vision4{
+    width: 350.67px;
+height: 325px;
+box-sizing: border-box;
+border-radius: 16px;
+padding: 33px 32px 32px 32px;
+border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+.vision .vision-dad .vision2-dad{
+    display: flex;
+    gap: 24px;
+}
+.vision .vision-dad .vision2 .vision2-1-heading h1{
+    font-size: 18px;
+font-weight: 700;
+}
+.vision .vision-dad .vision3 .vision2-1-heading h1{
+    font-size: 18px;
+font-weight: 700;
+}
+.vision .vision-dad .vision4 .vision2-1-heading h1{
+    font-size: 18px;
+font-weight: 700;
+}
+
+/* chalenge1 */
+.chalange1 .chalange{
+    margin-top: 32px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 252, 252);
+background-image: url(../B11A1--assignment-1-main/assets/quote-bg.png);
+background-position: 10px 12px;
+background-repeat: no-repeat;
+margin-left: 160px;
+margin-right: 160px;
+padding: 28px 10px;
+}
+.chalange1 .chalange .chalenge-content{
+    margin-bottom: 12px;
+}
+.chalange1 .chalange .chalenge-foot1 h1{
+    font-size: 20px;
+font-weight: 600;
+border: 1px solid rgb(255, 252, 252);
+height: 2px;
+margin-bottom: 20px;
+}
+.chalange1 .chalange .chalenge-foot-2 p{
+    font-size: 14px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.6);
+}
+.chalange1{
+    margin-bottom: 80px;
+}
+/* satelite */
+.satelite1 #satelite-dad{
+    display: flex;
+    gap: 32px;
+    background-color: rgb(255, 252, 252);
+    padding: 48px;
+}
+.satelite2 #satelite-dad{
+    display: flex;
+    gap: 32px;
+    background-color: rgb(255, 252, 252);
+    padding: 48px;
+}
+.satelite1 #satelite-dad .satelite-content-dad .satelite-heading{
+    margin-bottom: 24px;
+    border: 1px solid rgb(255, 252, 252);
+    height: 25px;
+    font-size: 15px;
+font-weight: 700;
+}
+.satelite2 #satelite-dad .satelite-content-dad .satelite-heading{
+    margin-bottom: 24px;
+    border: 1px solid rgb(255, 252, 252);
+    height: 25px;
+    font-size: 15px;
+font-weight: 700;
+}
+.satelite1 #satelite-dad .satelite-content-dad .satelite-ligo img{
+    width: 92px;
+height: 29px;
+}
+.satelite2 #satelite-dad .satelite-content-dad .satelite-ligo img{
+    width: 92px;
+height: 29px;
+}
+.satelite1 #satelite-dad .satelite-content-dad .satelite-ligo{
+    border: 1px solid rgb(255, 252, 252);
+    height: 10px;
+    margin-bottom: 29px;
+}
+.satelite2 #satelite-dad .satelite-content-dad .satelite-ligo{
+    border: 1px solid rgb(255, 252, 252);
+    height: 10px;
+    margin-bottom: 29px;
+}
+.satelite-time-peradox{
+    display: flex;
+    gap: 12px;
+}
+.satelite-time-peradox .satelite-time1 p{
+    font-size: 16px;
+font-weight: 400;
+}
+.satelite-time-peradox .satelite-time2 p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.satelite-time-peradox{
+    border: 1px solid rgb(255, 252, 252);
+    height: 15px;
+    margin-bottom: 28px;
+}
+.satelite-btn button{
+    width: 120px;
+height: 40px;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+color: white;
+margin-top: 32px;
+border: none;
+}
+.satelite-img1 img{
+    width: 380px;
+height: 280px;
+border-radius: 24px;
+}
+#news{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.satelite2{
+    display: flex;
+    flex-direction: row-reverse;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    box-sizing: border-box;
+border-radius: 16px;
+margin-bottom: 80px;
+overflow: hidden
+}
+.satelite1{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+margin-bottom: 24px;
+overflow: hidden
+}
+/* taka */
+.taka-dad{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+.donate-dad{
+    text-align: center;
+    padding: 0 88px;
+    margin: 0 160px 80px 160px;
+}
+.t100 button{
+    width: 220px;
+height: 108px;
+font-size: 35px;
+font-weight: 700;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.t200 button{
+    width: 220px;
+height: 108px;
+font-size: 35px;
+font-weight: 700;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+}
+.t500 button{
+    width: 220px;
+height: 108px;
+font-size: 35px;
+font-weight: 700;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.t1000 button{
+    width: 220px;
+height: 108px;
+font-size: 35px;
+font-weight: 700;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.taka-dad{
+    justify-content: center;
+}
+.donate-heading{
+    margin-bottom: 24px;
+    font-size: 40px;
+font-weight: 700;
+color: rgb(14, 14, 14);
+}
+.satelite-content{
+    color: rgba(14, 14, 14, 0.7);
+}
+.satelite-time-peradox{
+    color: rgba(14, 14, 14, 0.7);
+}
+.donate-content{
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 32px;
+    font-size: 16px;
+font-weight: 400;
+}
+.form input{
+    width: 900px;
+height: 54px;
+margin-left: 220px;
+text-align: center;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 252, 252);
+}
+.donate-dad{
+    border: 1px solid white;
+    height: 300px;
+}
+.taka-dad button:hover{
+    background: rgb(198, 228, 214);
+}
+.input{
+    margin-top: 32px;
+}
+.donate-btn{
+    text-align: center;
+}
+.donate-btn button{
+    margin-top: 32px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 8px;
+
+background: rgb(0, 106, 80);
+width: 141px;
+height: 46px;
+color: white;
+}
+.donate{
+    margin-bottom: 80px;
+}
+/* chalenge2 */
+.chalenge2-dad{
+    text-align: center;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    margin-left: 160px;
+    margin-right: 160px;
+    padding: 80px 100px;
+    margin-bottom: 80px;
+}
+.chalenge2-heading h1{
+    font-size: 30px;
+font-weight: 700;
+}
+.chalenge2-heading{
+    height: 17px;
+    margin-bottom: 25px;
+}
+.chalenge2-content p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.7);
+margin-bottom: 20px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+}
+.email1 input{
+    color: rgba(14, 14, 14, 0.3);
+    border-radius: 8px 0px 0px 8px;
+
+background: rgb(255, 255, 255);
+width: 400px;
+height: 35px;
+border: none;
+padding-left: 30px;
+}
+.email2 button{
+    border-radius: 0px 8px 8px 0px;
+background: rgb(0, 106, 80);
+border: none;
+height: 37px;
+width: 100px;
+color: white;
+}
+.promis p{
+    font-size: 16px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.7);
+}
+/* footer */
+.foot-dad{
+    text-align: center;
+    padding: 50px 60px;
+}
+.foot-dad hr{
+    margin-left: 79px;
+    margin-left: 79px;
+    margin-bottom: 32px;
+}
+.foot-icon{
+    display: flex;
+    gap: 23px;
+    justify-content: center;
+}
+.foot-icon img{
+    width: 14px;
+height: 14px;
+}
