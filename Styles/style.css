@@ -1,3 +1,6 @@
+.hide{
+    display: none;
+}
 .navbar .hero-btn button:hover{
     background-color: grey;
     color: white;
